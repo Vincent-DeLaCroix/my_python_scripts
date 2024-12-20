@@ -1,4 +1,4 @@
-Ollama GUI with Voice Synthesis
+MU-TH-R_6000.py with Voice Synthesis
 A sophisticated graphical user interface for Ollama language models featuring text-to-speech capabilities with customizable audio effects.
 🌟 Key Features
 
